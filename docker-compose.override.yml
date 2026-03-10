@@ -1,0 +1,5 @@
+services:
+  redis:
+    labels:
+      - com.centurylinklabs.watchtower.enable=true
+      
